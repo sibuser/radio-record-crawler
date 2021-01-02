@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  crawler:
+    build: .
+    container_name: record-crawler
+    restart: always
+    volumes:
+      - ${DST}:/media/dst
