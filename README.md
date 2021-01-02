@@ -1,6 +1,6 @@
 # Crawler to download music from Radio Record
 
-It turned out that Radio Record keeps all their music publicly available, and you can download it.
+It turned out that Radio Record keeps all their music publicly available, and you can download from http://history.radiorecord.ru/air/.
 
 To define what stations to download just update the CHANNELS variable in the [settings](./record_crawler/settings.py).
 
